@@ -58,3 +58,5 @@ Z:/pkg/ocrC9E2.tmp/lib/ruby/2.6.0/rubygems/core_ext/kernel_require.rb:54:in `req
   from Z:/pkg/ocrC9E2.tmp/lib/ruby/2.6.0/rubygems/core_ext/kernel_require.rb:54:in `require'
   from ./src/entrypoint.rb:6:in `<main>'
 ```
+
+If that helps, check `pkgtree.txt` file which lists the files being present in the extracted debug package.
